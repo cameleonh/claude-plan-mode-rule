@@ -29,13 +29,13 @@ cp plan-mode-policy.md ~/.claude/rules/plan-mode-policy.md
 ### Option 2: One-liner (macOS / Linux)
 
 ```bash
-mkdir -p ~/.claude/rules && curl -o ~/.claude/rules/plan-mode-policy.md https://raw.githubusercontent.com/cameleonh/claude-plan-mode-rule/main/plan-mode-policy.md
+mkdir -p ~/.claude/rules && curl -o ~/.claude/rules/plan-mode-policy.md https://raw.githubusercontent.com/cameleonh/claude-plan-mode-rule/master/plan-mode-policy.md
 ```
 
 ### Option 3: One-liner (Windows PowerShell)
 
 ```powershell
-New-Item -ItemType Directory -Force -Path "$env:USERPROFILE\.claude\rules"; Invoke-WebRequest -Uri "https://raw.githubusercontent.com/cameleonh/claude-plan-mode-rule/main/plan-mode-policy.md" -OutFile "$env:USERPROFILE\.claude\rules\plan-mode-policy.md"
+New-Item -ItemType Directory -Force -Path "$env:USERPROFILE\.claude\rules"; Invoke-WebRequest -Uri "https://raw.githubusercontent.com/cameleonh/claude-plan-mode-rule/master/plan-mode-policy.md" -OutFile "$env:USERPROFILE\.claude\rules\plan-mode-policy.md"
 ```
 
 ## Verification
