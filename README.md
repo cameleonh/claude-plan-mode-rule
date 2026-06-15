@@ -1,5 +1,10 @@
 # Claude Plan Mode Rule
 
+<!-- project-summary -->
+> **What this is:** Claude Code rule that automatically enters plan mode for complex implementation or architecture tasks.
+<!-- /project-summary -->
+
+
 A Claude Code rule that automatically triggers plan mode for complex tasks, so you never forget to plan before implementing.
 
 ## What It Does
