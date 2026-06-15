@@ -2,6 +2,7 @@
 
 <!-- project-summary -->
 > **What this is:** Claude Code rule that automatically enters plan mode for complex implementation or architecture tasks.
+> **한국어:** 복잡한 구현 및 설계 작업에서 Claude Code가 자동으로 plan mode에 들어가게 하는 규칙입니다.
 <!-- /project-summary -->
 
 
